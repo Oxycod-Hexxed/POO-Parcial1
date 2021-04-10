@@ -1,9 +1,9 @@
 package Parcial1;
-
+import java.util.Scanner;
 /**
  *
  * @author neutroms
  */
-public class Problema2 {
+public class Proyecto1 {
     
 }
